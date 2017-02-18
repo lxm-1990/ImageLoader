@@ -11,4 +11,4 @@
 (2)LruCache内存缓存
 (3)LruDiskCache磁盘缓存
 拓展
-优化listview和gridview的卡顿现象:
+优化listview和gridview的卡顿现象
